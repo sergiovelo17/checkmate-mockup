@@ -1,0 +1,19 @@
+body{
+    /* background-color: red; */
+}
+.todo{
+    height: 35px !important;
+    border: 15px brown!important;
+    border-color: brown !important;
+    background-color: yellow !important;
+}
+.page-logo{
+    width: 5%;
+    height: 5%;
+}
+.center-things{
+    margin: 0 auto;
+}
+.filler{
+    height: 150px;
+}
